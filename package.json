@@ -1,7 +1,7 @@
 {
   "name": "gulp-website",
   "version": "1.0.0",
-  "description": "Gulpish Website",
+  "description": "Gulp Website",
   "main": "index.js",
   "author": "Nuzair Ibrahim",
   "license": "MIT",
